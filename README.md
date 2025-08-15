@@ -30,7 +30,7 @@
 
 
 ### ⬇️ pull.sh / pull.bat
-**developブランチから最新のコードを取得します**
+**developブランチから最新のコードを取得**
 
 ```bash
 # Windows
