@@ -7,7 +7,7 @@
 
 ```bash
 # Windows
-./build.bat
+.\build.bat
 
 # Mac 
 ./build.sh
@@ -34,7 +34,7 @@
 
 ```bash
 # Windows
-pull.bat
+.\pull.bat
 
 # Mac/Linux
 ./pull.sh
